@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkheavy=self.webpackChunkheavy||[]).push([[8531],{9815:(e,t,l)=>{l.r(t),l.d(t,{default:()=>i});var n=l(7294),a=l(9650);function i(e){return n.createElement(a.Z,{title:"Hello",description:"Hello React Page"},n.createElement("div",{style:{display:"flex",justifyContent:"center",alignItems:"center",height:"50vh",fontSize:"20px"}},"dklfndkln"))}}}]);

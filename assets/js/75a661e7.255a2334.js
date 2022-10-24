@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkheavy=self.webpackChunkheavy||[]).push([[7733],{5642:e=>{e.exports=JSON.parse('{"name":"docusaurus-plugin-content-docs","id":"Tutorial"}')}}]);
